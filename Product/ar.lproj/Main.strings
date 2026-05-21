@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Alw-Cb-stf"; */
+"Alw-Cb-stf.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "Fbb-R0-GWS"; */
+"Fbb-R0-GWS.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Fbb-R0-GWS"; */
+"Fbb-R0-GWS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fx9-W9-5Ut"; */
+"Fx9-W9-5Ut.text" = "Label";
+
+/* Class = "UILabel"; text = "desc"; ObjectID = "Guq-CU-8jX"; */
+"Guq-CU-8jX.text" = "desc";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HUO-63-gGg"; */
+"HUO-63-gGg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IBX-V0-vEs"; */
+"IBX-V0-vEs.text" = "Label";
+
+/* Class = "UILabel"; text = "Rate: "; ObjectID = "gou-SZ-467"; */
+"gou-SZ-467.text" = "Rate: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h8U-mZ-CpC"; */
+"h8U-mZ-CpC.text" = "Label";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "sby-Oo-lFJ"; */
+"sby-Oo-lFJ.text" = "Category";
+
+/* Class = "UILabel"; text = "Price:"; ObjectID = "tdr-jp-EYu"; */
+"tdr-jp-EYu.text" = "Price:";
+
+/* Class = "UIButton"; configuration.title = "Select Image From Gallery"; ObjectID = "uGD-p9-KNJ"; */
+"uGD-p9-KNJ.configuration.title" = "Select Image From Gallery";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uGD-p9-KNJ"; */
+"uGD-p9-KNJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Title: "; ObjectID = "wLs-EH-Sz4"; */
+"wLs-EH-Sz4.text" = "Title: ";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "x3M-zS-QLV"; */
+"x3M-zS-QLV.title" = "Root View Controller";

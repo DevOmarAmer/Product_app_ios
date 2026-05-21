@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Product
+
+  Created by Omar on 12/05/2026.
+  
+*/
+"add_product_title" = "إضافة منتج";
+"product_title_placeholder" = "اسم المنتج";
+"product_category_placeholder" = "التصنيف";
+"product_desc_placeholder" = "وصف المنتج";
+"product_price_placeholder" = "السعر ($)";
+"product_rating_placeholder" = "التقييم (١-٥)";
+"save_button" = "حفظ";
+"select_from_gallery" = "اختر من المعرض";
+
+"error_alert_title" = "بيانات غير مكتملة";
+"error_alert_message" = "برجاء ملء جميع الحقول بطريقة صحيحة.";
+"ok_button" = "حسناً";

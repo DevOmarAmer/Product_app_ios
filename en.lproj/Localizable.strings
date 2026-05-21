@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Product
+
+  Created by Omar on 12/05/2026.
+  
+*/
+"add_product_title" = "Add Product";
+"product_title_placeholder" = "Product Title";
+"product_category_placeholder" = "Category";
+"product_desc_placeholder" = "Description";
+"product_price_placeholder" = "Price ($)";
+"product_rating_placeholder" = "Rating (1-5)";
+"save_button" = "Save";
+"select_from_gallery" = "Select From Gallery";
+"error_alert_title" = "Missing Data";
+"error_alert_message" = "Please fill all fields correctly.";
+"ok_button" = "OK";
