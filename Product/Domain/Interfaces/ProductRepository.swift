@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+protocol ProductRepository {
+    func getProducts(completion: @escaping (Result<[Product], Error>) -> Void)
+    func saveProduct(product: Product)
+}

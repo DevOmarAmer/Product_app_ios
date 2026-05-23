@@ -3,7 +3,14 @@ import SDWebImage
 
 class ProductTableViewController: UITableViewController {
     
-    private let viewModel = ProductListViewModel()
+    private let viewModel = ProductListViewModel(
+        fetchProductsUseCase: FetchProductsUseCase(
+            repository: ProductRepositoryImpl(
+                remoteDataSource: ProductRemoteDataSource(),
+                localDataSource: ProductLocalDataSource()
+            )
+        )
+    )
     private let networkIndicator = UIActivityIndicatorView(style: .large)
 
     override func viewDidLoad() {
