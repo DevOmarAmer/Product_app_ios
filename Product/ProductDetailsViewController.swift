@@ -26,11 +26,9 @@ class ProductDetailsViewController: UITableViewController {
         if let p = product {
                     titleLabel.text = p.title
                     descLabel.text = p.description
-                    categoryLabel.text = "Category: \(p.category)"
                     priceLabel.text = "Price: \(p.price)$"
-                    ratingLabel.text = "Rating: \(p.rating)/5"
             
-            if let imageUrl = URL(string: p.imageData) {
+            if let imageUrl = URL(string: p.thumbnail) {
                             productImageView?.sd_setImage(with: imageUrl, placeholderImage: UIImage(systemName: "photo"))
                         }
                 }
